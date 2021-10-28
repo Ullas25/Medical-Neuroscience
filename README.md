@@ -3,7 +3,7 @@ This is my notes of Medical Neuroscience course offered by the [Duke University]
 
 [Course website](https://www.coursera.org/learn/medical-neuroscience?)
 
-The course instructor is Prof. [Leonard E. White](https://www.coursera.org/instructor/~901314).The course covers Neuroanatomy, Neural Signalling, Sensory Systems, Movement and Motor Control, Brain Development, and CognitionThis is very intensive course. I literally have spent 100s of hours on this course (including recommended text book stuy). I have to say, this is my fauvorite and difficult course that I have taken so far. 
+The course instructor is Prof. [Leonard E. White](https://www.coursera.org/instructor/~901314). The course covers Neuroanatomy, Neural Signalling, Sensory Systems, Movement and Motor Control, Brain Development, and Cognition. This is very intensive course. I literally have spent 100s of hours on this course (including recommended text book study). I have to say, this is my fauvorite and difficult course that I have taken so far. 
 
 Usefull resources for the course:
 * [Supporting webpage of the course](https://www.learnmedicalneuroscience.nl/) (You can find all the helpful resources here)
