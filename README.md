@@ -1,5 +1,5 @@
 # Medical-Neuroscience
-This is my notes of Medical Neuroscience course offered by the Duke University through Coursera. [ ***IN PROGRESS*** ]
+This is my notes of Medical Neuroscience course offered by the [Duke University](https://duke.edu/) through [Coursera.](https://www.coursera.org/) [ ---***IN PROGRESS***---]
 
 [Course website](https://www.coursera.org/learn/medical-neuroscience?)
 
