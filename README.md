@@ -1,5 +1,5 @@
 # Medical-Neuroscience
-This is my notes of Medical Neuroscience course offered by the [Duke University](https://duke.edu/) through [Coursera.](https://www.coursera.org/) [ ---***IN PROGRESS***---]
+Medical Neuroscience course is offered by the **Duke University** through [Coursera.](https://www.coursera.org/) [ ---***In progess***---]
 
 [Course website](https://www.coursera.org/learn/medical-neuroscience?)
 
@@ -11,8 +11,10 @@ Usefull resources for the course:
 * [Textbook resources](https://learninglink.oup.com/access/neuroscience-sixth-edition-student-resources#tag_chapter-01) - *I highly recoomend you to go over animations. It helps a lot in understanding.*
 * [Quiz - text book chapterwise](https://neuroscience5e.sinauer.com/quiz/quiz_chapters.cgi)
 
-File discription:
-As GitHb only allows to upload <= 25mb/file , I had to upload my scanned notes in parts. My notes are names as ***Part_(part_number)_Medical_Neuroscience_Notes***.
+## Notes
+* [Part 1 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_1_Medical_Neuroscience_Notes.pdf)
+* [Part 2 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_2_Medical_Neuroscience_Notes.pdf)
+* [Part 3 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_3_Medical_Neuroscience_Notes.pdf)
+* [Part 4 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_4_Medical_Neuroscience_Notes.pdf)
 
-*Note: My notes is not yet complete, I will be uploading the remaining in the days to come.*
-
+*Note: I will be uploading the remaining notes in the days to come.*
