@@ -12,9 +12,9 @@ Usefull resources for the course:
 * [Quiz - text book chapterwise](https://neuroscience5e.sinauer.com/quiz/quiz_chapters.cgi)
 
 ## Notes
-* [Part 1 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_1_Medical_Neuroscience_Notes.pdf)
-* [Part 2 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_2_Medical_Neuroscience_Notes.pdf)
-* [Part 3 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_3_Medical_Neuroscience_Notes.pdf)
-* [Part 4 notes](https://github.com/Ullas25/My-Neuroscience-Study/blob/main/Part_4_Medical_Neuroscience_Notes.pdf)
+* [Part 1 notes](https://github.com/Ullas25/Medical-Neuroscience/blob/main/Part_1_Medical_Neuroscience_Notes.pdf)
+* [Part 2 notes](https://github.com/Ullas25/Medical-Neuroscience/blob/main/Part_2_Medical_Neuroscience_Notes.pdf)
+* [Part 3 notes](https://github.com/Ullas25/Medical-Neuroscience/blob/main/Part_3_Medical_Neuroscience_Notes.pdf)
+* [Part 4 notes](https://github.com/Ullas25/Medical-Neuroscience/blob/main/Part_4_Medical_Neuroscience_Notes.pdf)
 
 *Note: I will be uploading the remaining notes in the days to come.*
